@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Eda.
+I'm Eda Alparslan.
 Freshman at Bilkent University CS Department.
 
 <!--
