@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Eda.
+Freshman at Bilkent University CS Department.
 
 <!--
 **edaalp/edaalp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
